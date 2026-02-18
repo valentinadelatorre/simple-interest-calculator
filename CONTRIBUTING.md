@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Todas las contribuciones, informes de errores, correcciones de errores, mejoras en la documentación, mejoras e ideas son bienvenidas.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
 
