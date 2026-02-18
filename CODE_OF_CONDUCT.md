@@ -1,35 +1,41 @@
 # Code of Conduct
 
-## Nuestro Compromiso
+## Our Pledge
 
-Nos comprometemos a hacer que la participación en nuestro proyecto sea una experiencia libre de acoso para todos, independientemente de edad, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, nacionalidad, apariencia personal, raza, religión o identidad y orientación sexual.
+We pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-## Nuestros Estándares
+## Our Standards
 
-Los ejemplos de comportamiento que contribuyen a crear un entorno positivo incluyen:
+Examples of behavior that contributes to creating a positive environment include:
 
-- Uso de lenguaje acogedor e inclusivo.
-- Respeto hacia diferentes puntos de vista y experiencias.
-- Aceptar con gracia la crítica constructiva.
-- Mostrar empatía hacia otros miembros de la comunidad.
+- Using welcoming and inclusive language.
+- Being respectful of differing viewpoints and experiences.
+- Gracefully accepting constructive criticism.
+- Showing empathy towards other community members.
 
-## Responsabilidades de Ejecución
+Examples of unacceptable behavior include:
 
-Los mantenedores del proyecto son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable.
+- The use of sexualized language or imagery.
+- Trolling, insulting or derogatory comments.
+- Public or private harassment.
+- Publishing others' private information without explicit permission.
 
-## Alcance
+## Enforcement Responsibilities
 
-Este Código de Conducta se aplica dentro de todos los espacios del proyecto y cuando un individuo representa oficialmente al proyecto en espacios públicos.
+Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior.
 
-## Ejecución
+## Scope
 
-Las instancias de comportamiento abusivo, acosador o inaceptable pueden ser reportadas a los mantenedores del proyecto para su revisión e investigación.
+This Code of Conduct applies within all project spaces and when an individual is officially representing the project in public spaces.
 
-## Directrices de Ejecución
+## Enforcement
 
-Los mantenedores del proyecto seguirán estas Directrices de Ejecución al determinar las consecuencias para cualquier acción que consideren en violación de este Código de Conducta.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers for review and investigation.
 
-## Atribución
+## Enforcement Guidelines
 
-Este Código de Conducta está adaptado del Contributor Covenant, versión 2.0.
+Project maintainers will follow these Enforcement Guidelines in determining consequences for any action they consider to be in violation of this Code of Conduct.
 
+## Attribution
+
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
